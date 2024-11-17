@@ -41,7 +41,7 @@ I'm a aspiring software developer with a background in **Computer Science** from
 
 Feel free to connect with me if you want to collaborate or discuss interesting opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-siembida-b89502339)
 
 ## My Projects 💻
 
@@ -121,6 +121,6 @@ Apart from the obvious (that being expanding my .NET skillset), I'm interested i
 
 I'm a member of a reenactment group. And although I don't wear a uniform or participate in reenactments, I contribute to the "internet front" by managing the group's website (created by me) and supporting its online presence. 
 
-<a href="https://adres-strony.com](https://grhzieleniewski.pl/">
+<a href="https://grhzieleniewski.pl/">
   <img src="https://github.com/user-attachments/assets/4e0fa98e-28cd-41a0-910d-6286ce83e7f9" alt="baner">
 </a>
