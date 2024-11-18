@@ -21,7 +21,7 @@ I'm a aspiring software developer with a background in **Computer Science** from
 | Tools      |    [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)  [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#) |
 | CMS | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#) |
 
- 
+List of my finished Udemy [courses](https://github.com/KSi3m/KSi3m/blob/main/Courses.md).
 
 
 
