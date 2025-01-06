@@ -107,7 +107,8 @@ Here are some of the projects I've worked on (or currently working on!). Click t
   
   A web application designed for managing election-related assets like billboards, posters, and digital advertisements. Built using **ASP.NET Core 8.0**, it leverages **Entity Framework** for data handling, and **ASP.NET Identity** for user authentication and authorization.
   
-  **Project Status**: In early development, with ongoing implementation of key features and functionality.
+  **Project Status**: In early development, with ongoing implementation of key features and functionality.  **You can see the code [here](https://github.com/KSi3m/PlakatManager)!**
+  
   
 </details>
 
